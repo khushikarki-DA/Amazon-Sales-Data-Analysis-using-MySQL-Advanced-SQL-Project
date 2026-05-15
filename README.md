@@ -1,5 +1,5 @@
 # Amazon-Sales-Data-Analysis-using-MySQL
-Project Overview
+## Project Overview
 
 This project is an advanced SQL-based data analysis project built on an Amazon-style e-commerce dataset. The objective of the project is to solve real-world business problems using MySQL by analyzing customer behavior, sales performance, inventory management, payment trends, seller performance, and product profitability.
 
