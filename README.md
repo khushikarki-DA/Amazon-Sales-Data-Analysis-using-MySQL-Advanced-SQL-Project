@@ -5,6 +5,18 @@ This project is an advanced SQL-based data analysis project built on an Amazon-s
 
 The database consists of multiple interconnected tables such as customers, orders, order_items, products, payments, sellers, inventory, shipping, and category tables. An Entity Relationship (ER) Diagram was also created to understand and represent the relationships between the tables.
 
+The project focuses on solving 20 real-world business problems using optimized SQL queries and advanced SQL concepts including:
+
+- Complex JOIN operations
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- Subqueries
+- CASE Statements
+- Ranking Functions
+- Date Functions
+- Data Filtering and Grouping
+
 ## Database Structure
 
 The project uses a relational database designed to simulate an e-commerce platform similar to Amazon.
@@ -21,18 +33,6 @@ Main Tables Used
 - Category
 
 These tables are connected using primary and foreign keys to enable detailed business analysis across different operational areas.
-
-The project focuses on solving 20 real-world business problems using optimized SQL queries and advanced SQL concepts including:
-
-- Complex JOIN operations
-- Common Table Expressions (CTEs)
-- Window Functions
-- Aggregate Functions
-- Subqueries
-- CASE Statements
-- Ranking Functions
-- Date Functions
-- Data Filtering and Grouping
 
 ## Business Problems Solved
 1. Top Selling Products Analysis
