@@ -22,6 +22,18 @@ Main Tables Used
 
 These tables are connected using primary and foreign keys to enable detailed business analysis across different operational areas.
 
+The project focuses on solving 20 real-world business problems using optimized SQL queries and advanced SQL concepts including:
+
+- Complex JOIN operations
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- Subqueries
+- CASE Statements
+- Ranking Functions
+- Date Functions
+- Data Filtering and Grouping
+
 ## Business Problems Solved
 1. Top Selling Products Analysis
 
