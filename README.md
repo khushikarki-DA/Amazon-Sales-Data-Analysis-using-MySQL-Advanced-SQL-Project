@@ -115,66 +115,66 @@ These tables are connected using primary and foreign keys to enable detailed bus
 
 11. Top Performing Sellers
 
-   Identified the top sellers based on total sales revenue and analyzed their successful and cancelled orders.
+    Identified the top sellers based on total sales revenue and analyzed their successful and cancelled orders.
 
-   Key Insights:
-   Compared seller performance
-   Calculated seller success percentage
-   Evaluated seller reliability and contribution
+    Key Insights:
+    Compared seller performance
+    Calculated seller success percentage
+    Evaluated seller reliability and contribution
 
 12. Product Profit Margin Analysis
 
-   Calculated profit margins for products by comparing revenue with cost of goods sold (COGS).
+    Calculated profit margins for products by comparing revenue with cost of goods sold (COGS).
 
-   Key Insights:
-   Identified highly profitable products
-   Ranked products based on profitability
-   Performed margin analysis using aggregate calculations
+    Key Insights:
+    Identified highly profitable products
+    Ranked products based on profitability
+    Performed margin analysis using aggregate calculations
 
 13. Most Returned Products
 
-   Analyzed products with the highest return rates.
+    Analyzed products with the highest return rates.
 
-   Key Insights:
-   Calculated product return percentages
-   Identified problematic products
-   Evaluated customer return behavior
+    Key Insights:
+    Calculated product return percentages
+    Identified problematic products
+    Evaluated customer return behavior
 
 14. Increasing Purchase Trend Detection
 
-   Identified customers whose order values increased continuously over their last three purchases.
+    Identified customers whose order values increased continuously over their last three purchases.
 
-   Key Insights:
-   Tracked growing customer engagement
-   Detected increasing spending patterns
-   Used multiple LAG() functions for trend analysis
+    Key Insights:
+    Tracked growing customer engagement
+    Detected increasing spending patterns
+    Used multiple LAG() functions for trend analysis
 
 15. Inactive Sellers Analysis
 
-   Identified sellers who had not made any sales in the last six months.
+    Identified sellers who had not made any sales in the last six months.
 
-   Key Insights:
-   Tracked inactive sellers
-   Evaluated seller contribution over time
-   Analyzed last sales activity
+    Key Insights:
+    Tracked inactive sellers
+    Evaluated seller contribution over time
+    Analyzed last sales activity
 
 16. Customer Classification
 
-   Categorized customers as Returning or New based on their return history.
+    Categorized customers as Returning or New based on their return history.
 
-   Key Insights:
-   Used CASE statements for segmentation
-   Measured customer return behavior
-   Performed customer classification analysis
+    Key Insights:
+    Used CASE statements for segmentation
+    Measured customer return behavior
+    Performed customer classification analysis
 
 17. Top Customers by State
 
-   Identified the top 5 customers in each state based on order volume and total sales.
+    Identified the top 5 customers in each state based on order volume and total sales.
 
-   Key Insights:
-   Performed state-wise customer analysis
-   Ranked customers using window functions
-   Identified region-wise high-value customers
+    Key Insights:
+    Performed state-wise customer analysis
+    Ranked customers using window functions
+    Identified region-wise high-value customers
 
 ## Conclusion
 
