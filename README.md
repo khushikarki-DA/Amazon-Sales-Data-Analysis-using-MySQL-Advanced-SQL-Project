@@ -106,12 +106,12 @@ These tables are connected using primary and foreign keys to enable detailed bus
 
 10. Payment Success Rate Analysis
 
-   Calculated the percentage of successful, pending, and failed payments.
+    Calculated the percentage of successful, pending, and failed payments.
 
-   Key Insights:
-   Evaluated transaction success rates
-   Analyzed payment reliability
-   Measured payment processing performance
+    Key Insights:
+    Evaluated transaction success rates
+    Analyzed payment reliability
+    Measured payment processing performance
 
 11. Top Performing Sellers
 
