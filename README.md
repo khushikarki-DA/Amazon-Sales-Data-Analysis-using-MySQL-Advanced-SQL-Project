@@ -10,15 +10,15 @@ The database consists of multiple interconnected tables such as customers, order
 The project uses a relational database designed to simulate an e-commerce platform similar to Amazon.
 
 Main Tables Used
-Customers
-Orders
-Order Items
-Products
-Payments
-Sellers
-Inventory
-Shipping
-Category
+- Customers
+- Orders
+- Order Items
+- Products
+- Payments
+- Sellers
+- Inventory
+- Shipping
+- Category
 
 These tables are connected using primary and foreign keys to enable detailed business analysis across different operational areas.
 
